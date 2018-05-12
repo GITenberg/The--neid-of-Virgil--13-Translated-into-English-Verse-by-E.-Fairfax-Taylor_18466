@@ -1,0 +1,44 @@
+_repo: The--neid-of-Virgil--13-Translated-into-English-Verse-by-E.-Fairfax-Taylor_18466
+_version: 0.1.0
+alternative_title: Aeneid of Virgil, Translated into English Verse
+contributor:
+  commentator:
+    agent_name: Maine J. P.
+    gutenberg_agent_id: '8046'
+    url: http://www.gutenberg.org/2009/agents/8046
+  translator:
+    agent_name: Taylor, Edward Fairfax
+    gutenberg_agent_id: '8045'
+    url: http://www.gutenberg.org/2009/agents/8045
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Virgil
+    aliases:
+    - Vergilius Maro, Publius
+    - Vergil
+    birthdate: -70
+    deathdate: -19
+    gutenberg_agent_id: '129'
+    url: http://www.gutenberg.org/2009/agents/129
+    wikipedia: http://en.wikipedia.org/wiki/Virgil
+description: See also PG#22456 Tr. by J. W. Mackail
+gutenberg_bookshelf:
+- Harvard Classics
+- Classical Antiquity
+gutenberg_issued: '2006-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Epic poetry, Latin -- Translations into English'
+- !lcsh 'Aeneas (Legendary character) -- Poetry'
+title: The Æneid of Virgil, Translated into English Verse
+url: http://www.gutenberg.org/ebooks/18466
