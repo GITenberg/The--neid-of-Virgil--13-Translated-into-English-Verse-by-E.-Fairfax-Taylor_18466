@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/129
     wikipedia: http://en.wikipedia.org/wiki/Virgil
 description: See also PG#22456 Tr. by J. W. Mackail
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18466#The--neid-of-Virgil--13-Translated-into-English-Verse-by-E.-Fairfax-Taylor
 gutenberg_bookshelf:
 - Harvard Classics
 - Classical Antiquity
